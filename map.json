@@ -1,0 +1,9 @@
+print("
+# 4 directions (N E W S)
+# to the South there should be a lighthouse 
+# to the West I see a broken house 
+# to the North there is a cave 
+# to the East there is a Church
+# When the player is inside the cave (North) the path is blocked
+# When the player is inside the lighthouse (South), stair which leads to the top
+# When the player is inside the house (West), 
